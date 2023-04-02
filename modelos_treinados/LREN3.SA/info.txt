@@ -1,0 +1,11 @@
+Informações do modelo treinado LREN3.SAPeriodo de treino
+Incial: 2013-01-01;
+Final: 2018-12-31;
+
+Menor erro: 2.01294979985973 (em centavos)
+
+Parametros utilizados:
+janela, neuronio, ativacao, dropout, otimizador, perda, epocas, lotes
+5, 100, tanh, 0.1, adam, mse, 100, 16
+
+//--------------

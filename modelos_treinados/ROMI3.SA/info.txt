@@ -1,0 +1,11 @@
+Informações do modelo treinado ROMI3.SAPeriodo de treino
+Incial: 2013-01-01;
+Final: 2018-12-31;
+
+Menor erro: 0.1872349284940539 (em centavos)
+
+Parametros utilizados:
+janela, neuronio, ativacao, dropout, otimizador, perda, epocas, lotes
+5, 100, tanh, 0.1, adam, mse, 100, 32
+
+//--------------

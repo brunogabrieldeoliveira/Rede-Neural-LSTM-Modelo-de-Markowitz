@@ -1,0 +1,11 @@
+Informações do modelo treinado WEGE3.SAPeriodo de treino
+Incial: 2013-01-01;
+Final: 2018-12-31;
+
+Menor erro: 0.571397726738344 (em centavos)
+
+Parametros utilizados:
+janela, neuronio, ativacao, dropout, otimizador, perda, epocas, lotes
+5, 100, tanh, 0.15, adam, mse, 100, 8
+
+//--------------

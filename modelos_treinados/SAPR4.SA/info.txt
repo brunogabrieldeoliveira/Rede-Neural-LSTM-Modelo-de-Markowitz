@@ -1,0 +1,11 @@
+Informações do modelo treinado SAPR4.SAPeriodo de treino
+Incial: 2013-01-01;
+Final: 2018-12-31;
+
+Menor erro: 0.022161970375884674 (em centavos)
+
+Parametros utilizados:
+janela, neuronio, ativacao, dropout, otimizador, perda, epocas, lotes
+5, 100, tanh, 0.1, adam, mse, 100, 16
+
+//--------------
